@@ -1,1 +1,2 @@
-# EvanShizas.github.io
+# home
+History of the Video Game Company, Nintendo.
